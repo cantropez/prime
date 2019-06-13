@@ -1,0 +1,7 @@
+C:\Users\cantro\source\repos\LinkedLST\bin\Debug\LinkedLST.exe.config
+C:\Users\cantro\source\repos\LinkedLST\bin\Debug\LinkedLST.exe
+C:\Users\cantro\source\repos\LinkedLST\bin\Debug\LinkedLST.pdb
+C:\Users\cantro\source\repos\LinkedLST\obj\Debug\LinkedLST.csproj.CoreCompileInputs.cache
+C:\Users\cantro\source\repos\LinkedLST\obj\Debug\LinkedLST.exe
+C:\Users\cantro\source\repos\LinkedLST\obj\Debug\LinkedLST.pdb
+C:\Users\cantro\source\repos\LinkedLST\obj\Debug\LinkedLST.csprojAssemblyReference.cache
